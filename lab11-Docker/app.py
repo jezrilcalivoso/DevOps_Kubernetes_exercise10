@@ -25,7 +25,7 @@ def greet():
 
 @app.route("/welcome")
 def welcome():
-    return "Welcome to new API"
+    return "Welcome to new API!"
 
 
 if __name__ == "__main__":
